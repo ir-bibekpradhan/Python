@@ -41,7 +41,6 @@ python_dateutil==2.9.0.post0        # (PyPI page defaults; no new version found)
 tensorflow_io==0.37.0               # (Latest available on PyPI)
 aiohttp_cors==0.7.0                 # (Latest available on PyPI)
 apache_beam==2.58.0                 # (Latest stable on PyPI)
-pandas_stubs==2.2.3.240603          # (Latest PyPI release)
 boto3_stubs==1.35.68                # (Latest PyPI release)
 
 # Emerging / Specific Use Cases
