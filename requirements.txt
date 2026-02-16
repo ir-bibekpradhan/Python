@@ -24,23 +24,8 @@ hatch==1.12.0 # Modern, extensible Python project manager
 rich==13.7.1 # Beautiful terminal rendering
 textual==0.65.1 # Framework for building Text User Interfaces (TUIs)
 loguru==0.7.2 # Delightful logging library
-pydantic==2.7.2 # Data validation and settings management using Python type hints
 tomli==2.0.1 # TOML parser (often used for configuration, built-in in Python 3.11+)
 uv==0.2.11 # Extremely fast Python package installer and resolver (Rust-based)
-opencv_python==4.13.0.92            # [1](https://pypi.org/project/opencv-python/)
-importlib_metadata==8.7.1           # [3](https://pypi.org/project/importlib-metadata/)
-typing_extensions==4.15.0           # [4](https://pypi.org/project/typing-extensions/)
-google_api_core==2.29.0             # [5](https://pypi.org/project/google-api-core/)
-google_auth_oauthlib==1.2.4         # [6](https://pypi.org/project/google-auth-oauthlib/)
-requests_toolbelt==1.0.0            # [7](https://pypi.org/project/requests-toolbelt/)
-pytest_cov==7.0.0                   # [8](https://pypi.org/project/pytest-cov/)
-backports_zoneinfo==0.2.1           # [9](https://pypi.org/project/backports.zoneinfo/)
-ruamel.yaml.clib==0.2.15            # [10](https://pypi.org/project/ruamel.yaml.clib/)
-python_dateutil==2.9.0.post0        # (PyPI page defaults; no new version found)
-tensorflow_io==0.37.0               # (Latest available on PyPI)
-aiohttp_cors==0.7.0                 # (Latest available on PyPI)
-apache_beam==2.58.0                 # (Latest stable on PyPI)
-boto3_stubs==1.35.68                # (Latest PyPI release)
 
 # Emerging / Specific Use Cases
 weaviate-client==4.6.0 # Client for Weaviate vector database
