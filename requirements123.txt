@@ -1,2 +1,1 @@
-polars==0.19.11
-
+fastapi==0.111.0 # Modern, fast (high-performance) web framework
