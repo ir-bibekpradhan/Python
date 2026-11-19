@@ -1,4 +1,4 @@
-name: FE build
+name: BE build
 
 on:
   workflow_dispatch:
