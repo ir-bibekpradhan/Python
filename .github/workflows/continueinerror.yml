@@ -1,4 +1,4 @@
-name: Continueinerror
+name: FE build
 
 on:
   workflow_dispatch:
