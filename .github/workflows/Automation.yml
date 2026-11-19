@@ -1,4 +1,4 @@
-name: Automation
+name: FE Build
 
 on:
   workflow_dispatch:
